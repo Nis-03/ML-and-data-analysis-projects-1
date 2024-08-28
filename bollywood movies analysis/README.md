@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-Bollywood Movie Dialogue Analysis
+
+**Bollywood Movie Dialogue Analysis**
 This project analyzes the content of top-grossing Bollywood movies by extracting dialogue from subtitle files, generating a document-term matrix using TF-IDF, and visualizing the most common words using word clouds.
 
 Project Overview
@@ -11,13 +11,13 @@ Steps Involved
 3.TF-IDF Analysis: Create a document-term matrix using the TF-IDF method to identify important words in the dialogue.
 4.Word Cloud Visualization: Generate word clouds for each movie to visualize the most common words.
 
-Tools and Libraries Used
-Python
-scikit-learn (TF-IDF Vectorizer)
-NLTK (Stop words, Lemmatization)
-WordCloud (Word Cloud Generation)
-matplotlib (Visualization)
-=======
+Tools and Libraries Used:
+Python,
+scikit-learn (TF-IDF Vectorizer),
+NLTK (Stop words, Lemmatization),
+WordCloud (Word Cloud Generation),
+matplotlib (Visualization).
+
 Bollywood Movie Dialogue Analysis
 This project analyzes the content of top-grossing Bollywood movies by extracting dialogue from subtitle files, generating a document-term matrix using TF-IDF, and visualizing the most common words using word clouds.
 
@@ -35,4 +35,4 @@ scikit-learn (TF-IDF Vectorizer)
 NLTK (Stop words, Lemmatization)
 WordCloud (Word Cloud Generation)
 matplotlib (Visualization)
->>>>>>> 9d6b935d088f207fb54fb72a568d4951fc7f7f2c
+
